@@ -1,0 +1,14 @@
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\bin\Debug\FrequenciaAlunos.exe.config
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\bin\Debug\FrequenciaAlunos.exe
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\bin\Debug\FrequenciaAlunos.pdb
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\bin\Debug\MetroFramework.dll
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.csproj.AssemblyReference.cache
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.Form1.resources
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.Login.resources
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.Properties.Resources.resources
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.csproj.GenerateResource.cache
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.csproj.CopyComplete
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.exe
+C:\Users\Public\projects\01_FrequenciaAlunos\FrequenciaAlunos\FrequenciaAlunos\obj\Debug\FrequenciaAlunos.pdb
